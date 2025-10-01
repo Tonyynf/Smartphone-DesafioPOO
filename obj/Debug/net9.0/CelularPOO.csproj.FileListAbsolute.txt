@@ -1,0 +1,14 @@
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\bin\Debug\net9.0\CelularPOO.exe
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\bin\Debug\net9.0\CelularPOO.deps.json
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\bin\Debug\net9.0\CelularPOO.runtimeconfig.json
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\bin\Debug\net9.0\CelularPOO.dll
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\bin\Debug\net9.0\CelularPOO.pdb
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\obj\Debug\net9.0\CelularPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\obj\Debug\net9.0\CelularPOO.AssemblyInfoInputs.cache
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\obj\Debug\net9.0\CelularPOO.AssemblyInfo.cs
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\obj\Debug\net9.0\CelularPOO.csproj.CoreCompileInputs.cache
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\obj\Debug\net9.0\CelularPOO.dll
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\obj\Debug\net9.0\refint\CelularPOO.dll
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\obj\Debug\net9.0\CelularPOO.pdb
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\obj\Debug\net9.0\CelularPOO.genruntimeconfig.cache
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\DIO\CelularPOO\CelularPOO\obj\Debug\net9.0\ref\CelularPOO.dll
