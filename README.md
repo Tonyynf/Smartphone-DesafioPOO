@@ -7,10 +7,10 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
 
 ### Pré-requisitos:
 
-Lógica de Programação e POO;
+● Lógica de Programação e POO;
 
-Conhecimentos Intermediário (.NET, Git, GitHub);
+● Conhecimentos Intermediário (.NET, Git, GitHub);
 
-Computador com SO de sua preferência(Windows, Linux, Mac OS);
+● Computador com SO de sua preferência(Windows, Linux, Mac OS);
 
-Ferramentas de Desenvolvimento (IDE)
+● Ferramentas de Desenvolvimento (IDE)
